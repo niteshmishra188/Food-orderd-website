@@ -1,0 +1,62 @@
+
+.v{
+    background-image: url("login.jpg"); 
+}
+
+
+.login{
+    width: 30%;
+
+    /* border: 10px solid black; */
+    margin: 10% auto;
+    padding: 2%;
+    /* background-color: aqua; */
+   
+  
+}
+
+.deco{
+    animation: blinker 1s linear infinite;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+  }
+  
+  @keyframes blinker {
+    40% {
+      opacity: 0;
+    }
+  }
+
+ placeholder {
+    text-decoration: solid;
+}
+.h{
+    text-align: center;
+}
+.btn-primary{
+    background-color: blue;
+    padding:1% ;
+    color: white;
+    font-weight: bold;
+
+}
+
+form input{
+     border: 2px solid white;
+     border-radius: 10px;
+}
+
+.in{
+    width: 50%;
+}
+
+.text-center{
+    text-align: center;
+}
+.err{
+    color: red;
+}
+p a{
+    color: black;
+}
