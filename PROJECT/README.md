@@ -1,3 +1,3 @@
 # Restaurant Food Order Theme
-niteshmishra188.gihub.io/niteshmishra.github.io
+https://github.com/niteshmishra188/niteshmishra.github.io
 
